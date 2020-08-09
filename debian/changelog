@@ -1,0 +1,37 @@
+ros-noetic-pr2-mechanism-msgs (1.8.2-1buster) buster; urgency=high
+
+  * change maintainer to ROS orphaned package maintainer
+  * Contributors: Kei Okada
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 13 Feb 2018 00:00:00 -0000
+
+ros-noetic-pr2-mechanism-msgs (1.8.1-1buster) buster; urgency=high
+
+
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Tue, 03 Nov 2015 00:00:00 -0000
+
+ros-noetic-pr2-mechanism-msgs (1.8.0-1buster) buster; urgency=high
+
+  * Added tag 1.7.3 for changeset e6b45a804270
+  * Contributors: Ioan Sucan
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Fri, 26 Apr 2013 00:00:00 -0000
+
+ros-noetic-pr2-mechanism-msgs (1.7.3-1buster) buster; urgency=high
+
+  * switch from langs(-dev) to message_(generation/runtime)
+  * fix buildtool tag
+  * Added tag 1.7.2 for changeset 05a16ece9ab7
+  * Contributors: Dirk Thomas, Ioan Sucan
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Thu, 20 Dec 2012 00:00:00 -0000
+
+ros-noetic-pr2-mechanism-msgs (1.7.2-1buster) buster; urgency=high
+
+  * catkinized version of the correspoding package from pr2_mechanism
+  * Contributors: Ioan Sucan
+
+ -- ROS Orphaned Package Maintainers <ros-orphaned-packages@googlegroups.com>  Mon, 19 Nov 2012 00:00:00 -0000
+
+
