@@ -1,3 +1,26 @@
+## pr2_mechanism_msgs (noetic) - 1.8.2-1
+
+The packages in the `pr2_mechanism_msgs` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -y pr2_mechanism_msgs --track noetic --rosdistro noetic` on `Sun, 09 Aug 2020 05:30:38 -0000`
+
+The `pr2_mechanism_msgs` package was released.
+
+Version of package(s) in repository `pr2_mechanism_msgs`:
+
+- upstream repository: https://github.com/PR2/pr2_mechanism_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.8.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## pr2_mechanism_msgs (melodic) - 1.8.2-0
 
 The packages in the `pr2_mechanism_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release pr2_mechanism_msgs -y --track melodic --rosdistro melodic` on `Wed, 29 Aug 2018 06:46:17 -0000`
